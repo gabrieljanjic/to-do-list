@@ -200,6 +200,9 @@ ul li.checked {
   .input-div {
     margin-top: 1.4rem;
   }
+  .btn {
+    padding: 1.1rem 2.4rem;
+  }
 }
 @media (max-width: 30rem) {
   html {
@@ -222,9 +225,22 @@ ul li.checked {
   .input-div {
     margin-top: 1.6rem;
   }
+  .section {
+    padding: 3rem 3rem;
+  }
+  .input {
+    font-size: 1.3rem;
+  }
+  .btn {
+    font-size: 1.2rem;
+    padding: 1.24rem 2.4rem;
+  }
 }
 @media (max-width: 22rem) {
   html {
     font-size: 56.25%;
+  }
+  .section {
+    padding: 2.5rem;
   }
 }
